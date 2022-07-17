@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Qunyin_mmWave_ESP32.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Qunyin_mmWave_ESP32.SchDoc|FileName=Qunyin_mmWave_flash&USB.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Qunyin_mmWave_ESP32.SchDoc|FileName=Qunyin_mmWave_mainIOs.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Qunyin_mmWave_ESP32.SchDoc|FileName=Qunyin_mmWave_mainPowers.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Qunyin_mmWave_ESP32.SchDoc|FileName=Qunyin_mmWave_pmic.SchDoc|SheetNumber=3
